@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: person("Abhishek", "Mane", email = "abhishek.mane33@gmail.com", role = c("aut", "cre"))
 Description: Given input as a csv file containing Victim age, sex, race, weapon and suspect details such as age , sex, race, relationship with the victim it predicts and returns average of probabilities of each of these fields.
 Depends: R (>= 3.4.2)
-Imports: C50
+Suggests: C50
 License: No Licensing(We would appreciate if you credited us fellow people)
 Encoding: UTF-8
 LazyData: true
